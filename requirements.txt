@@ -1,0 +1,4 @@
+aiogram==3.0.0
+openai-whisper==20230308
+python-dotenv==0.19.0
+transformers==4.28.1
